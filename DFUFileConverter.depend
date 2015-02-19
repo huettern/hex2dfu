@@ -1,0 +1,114 @@
+# depslib dependency file v1.0
+1424343156 source:/home/noah/ownCloud/Office/Programming/DFUFileConverter/DFUFileConverter/dfu_write.cpp
+	<stdint.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	<fstream>
+	"dfu_write.h"
+
+1424342484 /home/noah/ownCloud/Office/Programming/DFUFileConverter/DFUFileConverter/dfu_write.h
+	<stdint.h>
+
+1421652251 source:/home/noah/ownCloud/Office/Programming/DFUFileConverter/DFUFileConverter/ihex_copy.c
+	"cintelhex.h"
+	<stdio.h>
+	<string.h>
+
+1421648215 /home/noah/ownCloud/Office/Programming/DFUFileConverter/DFUFileConverter/cintelhex.h
+	<stdlib.h>
+	<stdint.h>
+
+1421652504 source:/home/noah/ownCloud/Office/Programming/DFUFileConverter/DFUFileConverter/ihex_parse.c
+	"cintelhex.h"
+	<stdio.h>
+	<fcntl.h>
+	<unistd.h>
+	<string.h>
+	<sys/stat.h>
+	<sys/mman.h>
+
+1421648215 source:/home/noah/ownCloud/Office/Programming/DFUFileConverter/DFUFileConverter/ihex_record.c
+	"cintelhex.h"
+	<stdio.h>
+
+1424342536 source:/home/noah/ownCloud/Office/Programming/DFUFileConverter/DFUFileConverter/main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<unistd.h>
+	<sys/stat.h>
+	"dfu_write.h"
+	"cintelhex.h"
+
+1424343423 source:/home/noah/ownCloud/Office/Programming/DFUFileConverter/DFUFileConverter/src/dfu_write.cpp
+	<stdint.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	<fstream>
+	"../inc/dfu_write.h"
+
+1424342484 /home/noah/ownCloud/Office/Programming/DFUFileConverter/DFUFileConverter/inc/dfu_write.h
+	<stdint.h>
+
+1421652251 source:/home/noah/ownCloud/Office/Programming/DFUFileConverter/DFUFileConverter/src/ihex_copy.c
+	"cintelhex.h"
+	<stdio.h>
+	<string.h>
+
+1421652504 source:/home/noah/ownCloud/Office/Programming/DFUFileConverter/DFUFileConverter/src/ihex_parse.c
+	"cintelhex.h"
+	<stdio.h>
+	<fcntl.h>
+	<unistd.h>
+	<string.h>
+	<sys/stat.h>
+	<sys/mman.h>
+
+1421648215 source:/home/noah/ownCloud/Office/Programming/DFUFileConverter/DFUFileConverter/src/ihex_record.c
+	"cintelhex.h"
+	<stdio.h>
+
+1424343423 source:/home/noah/ownCloud/Office/Programming/DFUFileConverter/DFUFileConverterLinux_New/src/dfu_write.cpp
+	<stdint.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	<fstream>
+	"../inc/dfu_write.h"
+
+1424342484 /home/noah/ownCloud/Office/Programming/DFUFileConverter/DFUFileConverterLinux_New/inc/dfu_write.h
+	<stdint.h>
+
+1421652251 source:/home/noah/ownCloud/Office/Programming/DFUFileConverter/DFUFileConverterLinux_New/src/ihex_copy.c
+	"cintelhex.h"
+	<stdio.h>
+	<string.h>
+
+1421652504 source:/home/noah/ownCloud/Office/Programming/DFUFileConverter/DFUFileConverterLinux_New/src/ihex_parse.c
+	"cintelhex.h"
+	<stdio.h>
+	<fcntl.h>
+	<unistd.h>
+	<string.h>
+	<sys/stat.h>
+	<sys/mman.h>
+
+1421648215 source:/home/noah/ownCloud/Office/Programming/DFUFileConverter/DFUFileConverterLinux_New/src/ihex_record.c
+	"cintelhex.h"
+	<stdio.h>
+
+1424343459 source:/home/noah/ownCloud/Office/Programming/DFUFileConverter/DFUFileConverterLinux_New/src/main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<unistd.h>
+	<sys/stat.h>
+	"../inc/dfu_write.h"
+	"../inc/cintelhex.h"
+
+1421648215 /home/noah/ownCloud/Office/Programming/DFUFileConverter/DFUFileConverterLinux_New/inc/cintelhex.h
+	<stdlib.h>
+	<stdint.h>
+
